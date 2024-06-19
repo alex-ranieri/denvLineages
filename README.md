@@ -3,6 +3,7 @@
 This repository contains the result of using a semi-automatic workflow for classifying Dengue virus (DENV) based on complete genome sequences. It addresses the current limitations in sub-genotype classification, offering a more granular and standardized system compared to traditional methods.
 Check our preprint at https://doi.org/10.1101/2024.03.25.586629
 
+See the lattest version of DyDEVILS on [our lab repository page](https://github.com/V-GEN-Lab/DyDEVILS)!
 ## Using Nextclade web app to assign lineages
 
 To promote the widespread adoption of the proposed DENV lineage classification system, dedicated Nextclade datasets for [DENV-1](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV1), [DENV-2](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV2), [DENV-3](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV3), and [DENV-4](https://clades.nextstrain.org/?dataset-url=https://github.com/alex-ranieri/denvLineages/tree/main/Nextclade_V3_data/DENV4) were constructed.
